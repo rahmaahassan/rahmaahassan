@@ -41,7 +41,7 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> </p>
 
 
-## Find me around the web 🌎 <a href="https://www.linkedin.com/in/rahma-hassan-profile/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+## Find me around the web 🌎 src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Practising on <a href="https://kaggle.com/rahmazhassan">Kaggle</a> 😶
 - Sharing updates on <a href="www.linkedin.com/in/rahma-hassan-profile/">LinkedIn</a> 😇
 
