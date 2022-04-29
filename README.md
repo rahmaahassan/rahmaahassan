@@ -46,6 +46,10 @@
 - Sharing updates on <a href="www.linkedin.com/in/rahma-hassan-profile/">LinkedIn</a> 😇
 
 
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
+
+
 
 <p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=rahmaahassan&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="rahmaahassan" /></p>
 <p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmaahassan&layout=compact&theme=radical&hide_border=true" alt="rahmaahassan" /></p>
