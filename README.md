@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/rahmaahassan?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=rahmaahassan&color=brightgreen">
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)]([https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png](https://www.un.org/sites/un2.un.org/files/field/image/1594842639.8507.jpg))
+![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://www.un.org/sites/un2.un.org/files/field/image/1594842639.8507.jpg)
 
 ## 👩🏻‍💻 &nbsp;About Me
 
