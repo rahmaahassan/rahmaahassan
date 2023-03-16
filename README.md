@@ -5,17 +5,17 @@
 ![GitHub followers](https://img.shields.io/github/followers/rahmaahassan?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=rahmaahassan&color=brightgreen">
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png)
+![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)]([https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png](https://www.un.org/sites/un2.un.org/files/field/image/1594842639.8507.jpg))
 
 ## 👩🏻‍💻 &nbsp;About Me
 
-## I'm a Flutter Developer !!
+## I'm a Data Analyst !!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I think I'm funny!
 - ✉️ &nbsp;You can shoot me an email at rahmahassan536@gmail.com! I'll try to respond as soon as I can
 
