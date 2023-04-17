@@ -3,8 +3,6 @@
 [![Linkedin:Rahma](https://img.shields.io/badge/-Rahma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/rahma-hassan-profile/)](https://www.linkedin.com/in/rahma-hassan-profile/)
 [![Twitter:Rahma](https://img.shields.io/badge/-Rahma-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/1rahmahassan)](https://twitter.com/1rahmahassan)
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif)
-
 ## 👩🏻‍💻 &nbsp;About Me
 
 ## I'm a Data Analyst !!
