@@ -2,9 +2,8 @@
 
 [![Linkedin:Rahma](https://img.shields.io/badge/-Rahma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/rahma-hassan-profile/)](https://www.linkedin.com/in/rahma-hassan-profile/)
 [![Twitter:Rahma](https://img.shields.io/badge/-Rahma-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/1rahmahassan)](https://twitter.com/1rahmahassan)
-![GitHub followers](https://img.shields.io/github/followers/rahmaahassan?label=Follow&style=social)
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://www.un.org/sites/un2.un.org/files/field/image/1594842639.8507.jpg)
+![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://media.tenor.com/lvLaG5hPCncAAAAC/data-analysis.gif)
 
 ## 👩🏻‍💻 &nbsp;About Me
 
