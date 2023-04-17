@@ -3,6 +3,7 @@
 [![Linkedin:Rahma](https://img.shields.io/badge/-Rahma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/rahma-hassan-profile/)](https://www.linkedin.com/in/rahma-hassan-profile/)
 [![Twitter:Rahma](https://img.shields.io/badge/-Rahma-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/1rahmahassan)](https://twitter.com/1rahmahassan)
 
+
 ## 👩🏻‍💻 &nbsp;About Me
 
 ## I'm a Data Analyst !!
@@ -19,7 +20,8 @@
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Dart-green)
+![](https://img.shields.io/badge/Code-Dart-blue)
+![](https://img.shields.io/badge/SQL-green)
 ![](https://img.shields.io/badge/Tools-Git-blue)
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
@@ -43,8 +45,9 @@
 
 
 
-<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=rahmaahassan&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="rahmaahassan" /></p>
-<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmaahassan&layout=compact&theme=radical&hide_border=true" alt="rahmaahassan" /></p>
+<p align="left"><img width="40%" align="left" src="https://github-readme-stats.vercel.app/api?username=rahmaahassan&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="rahmaahassan" /></p>
+
+<p align="right"><img width="40%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahmaahassan&layout=compact&theme=radical&hide_border=true" alt="rahmaahassan" /></p>
 
 
 
