@@ -42,7 +42,7 @@
 ## Find me around the web 🌎 <a href="https://www.linkedin.com/in/rahma-hassan-profile/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 - Practising on <a href="https://kaggle.com/rahmazhassan">Kaggle</a> 😶
 - Sharing updates on <a href="https://www.linkedin.com/in/rahma-hassan-profile/">LinkedIn</a> 😇
-- My work on <a href="https://www.novypro.com/profile_projects/rahmahassan">Portfolio</a> 😇
+- See my work <a href="https://www.novypro.com/profile_projects/rahmahassan">Portfolio</a> 
 
 
 
