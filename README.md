@@ -1,7 +1,7 @@
 ### Hi there, I'm Rahma  👋 
 
-[![Linkedin:Rahma](https://img.shields.io/badge/-Rahma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/rahma-hassan-profile/)](https://www.linkedin.com/in/rahma-hassan-profile/)
-[![Twitter:Rahma](https://img.shields.io/badge/-Rahma-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/1rahmahassan)](https://twitter.com/1rahmahassan)
+[![Linkedin](https://img.shields.io/badge/-Rahma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/rahma-hassan-profile/)](https://www.linkedin.com/in/rahma-hassan-profile/)
+[![Twitter](https://img.shields.io/badge/-Rahma-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/1rahmahassan)](https://twitter.com/1rahmahassan)
 
 
 ## 👩🏻‍💻 &nbsp;About Me
