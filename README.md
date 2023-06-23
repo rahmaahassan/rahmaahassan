@@ -6,11 +6,11 @@
 
 ## 👩🏻‍💻 &nbsp;About Me
 
-## I'm a Data Analyst !!
+## I'm a Data Engineer !!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- 🌱 I'm currently worked as Data Analyst <a href="https://docs.google.com/document/d/1UM-KK6nBnLL2iB4DfSMceYXjgLj1KiZwyRPEYhNH8wg/edit?usp=sharing">My CV</a> 
+- 🌱 I'm currently worked as Data Engineer @Dedalus <a href="https://docs.google.com/document/d/1UM-KK6nBnLL2iB4DfSMceYXjgLj1KiZwyRPEYhNH8wg/edit?usp=sharing">My CV</a> 
 - 🤝 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I think I'm funny!
