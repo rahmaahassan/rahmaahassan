@@ -10,11 +10,11 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-- 🌱 I'm currently worked as Data Engineer @Dedalus 
+- 🌱 I'm currently working as a Data Engineer @Dedalus 
 - 🤝 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I think I'm funny!
-- ✉️ &nbsp;You can shoot me an email at rahmahassan536@gmail.com! I'll try to respond as soon as I can
+- ✉️ &nbsp; You can shoot me an email at rahmahassan536@gmail.com! I'll try to respond as soon as I can
 
 
 ## 🔧 Technologies & Tools
