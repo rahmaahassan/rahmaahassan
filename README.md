@@ -14,7 +14,7 @@
 - 🤝 I’m looking to collaborate with other content creators
 - 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I think I'm funny!
-- ✉️ &nbsp; You can shoot me an email at rahmahassan536@gmail.com! I'll try to respond as soon as I can
+- ✉️ &nbsp; You can shoot me an email at rahmahassan536@gmail.com! I'll try to respond ASA I can
 
 
 ## 🔧 Technologies & Tools
